@@ -1,0 +1,115 @@
+body {
+    background-color: lightgray;
+}
+#title {
+    text-align: center;
+    align-content: center;
+    font-weight: bold;
+}
+#navigation {
+    float: left;
+    align-content: left;
+    text-align: left;
+    border-style: solid;
+    border-width: 3px;
+    transition-duration: 0.4s;
+    padding: 5px;
+}
+
+#body {
+    align-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+#contact {
+    float: left;
+    align-content: left;
+    text-align: left;
+    border-style: solid;
+    border-width: 3px;
+    clear: both;
+}
+
+#acknowledgments {
+    align-content: center;
+    text-align: center;
+
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.button1:hover {
+    background-color: #0a92fa;
+    color: white;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.button2:hover {
+    background-color: #0a92fa;
+    color: white;
+}
+
+.button3 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.button3:hover {
+    background-color: #0a92fa;
+    color: white;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.button4:hover {
+    background-color: #0a92fa;
+    color: white;
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.button5:hover {
+    background-color: #0a92fa;
+    color: white;
+}
+
+.button6 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.button6:hover {
+    background-color: #0a92fa;
+    color: white;
+}
