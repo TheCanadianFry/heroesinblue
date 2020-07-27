@@ -1,0 +1,43 @@
+body {
+    background-color: lightgray;
+}
+#title {
+    text-align: center;
+    align-content: center;
+    font-weight: bold;
+}
+
+#body {
+    align-content: center;
+    text-align: center;
+}
+
+#image {
+    align-content: center;
+    text-align: center;
+    clear: both;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    float: left;
+    align-content: left;
+}
+
+.button1:hover {
+    background-color: #0a92fa;
+    color: white;
+}
